@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jodrapj\\source\\repos\\DragTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{610D8C35-4686-4187-82A4-FFE6E601C456}|DragTest.csproj|c:\\users\\jodrapj\\source\\repos\\dragtest\\draggableelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610D8C35-4686-4187-82A4-FFE6E601C456}|DragTest.csproj|solutionrelative:draggableelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DraggableElement.cs",
+              "DocumentMoniker": "C:\\Users\\jodrapj\\source\\repos\\DragTest\\DraggableElement.cs",
+              "RelativeDocumentMoniker": "DraggableElement.cs",
+              "ToolTip": "C:\\Users\\jodrapj\\source\\repos\\DragTest\\DraggableElement.cs",
+              "RelativeToolTip": "DraggableElement.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T19:16:31.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
